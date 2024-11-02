@@ -1,0 +1,6 @@
+pms4
+Wed Oct  9 10:03:43 AM EDT 2024
+ 10:03:43 up 1 day, 13:12,  1 user,  load average: 1.00, 1.14, 0.86
+File not found
+File exist!
+

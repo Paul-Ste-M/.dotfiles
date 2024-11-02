@@ -1,0 +1,9 @@
+cocsce-l1d43-18
+pms4
+Hello, World!
+/acct/pms4/csce215/pms4_lab03
+mkdir: cannot create directory ‘dirA’: File exists
+mkdir: cannot create directory ‘dirB’: File exists
+mkdir: cannot create directory ‘dirC’: File exists
+dirA  dirB  dirC  pms4_lab03.txt  script.sh
+dirA  dirB  dirC  pms4_lab03.txt  script.sh

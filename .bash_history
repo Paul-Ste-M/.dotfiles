@@ -1,0 +1,326 @@
+#1725457780
+touch pms4_lab_00.txt
+#1725457790
+vim pms4_lab_00.txt 
+#1725457805
+hostname
+#1725457809
+whoami
+#1725458365
+gedit pms4_lab_00.txt
+#1725459018
+pd
+#1726062211
+ls
+#1726062214
+pwd
+#1726062217
+cd
+#1726062222
+mv
+#1726062223
+cp
+#1726062242
+mv
+#1726062261
+~
+#1726062275
+ls -a
+#1726062280
+VIM
+#1726062282
+vim
+#1726062417
+~
+#1726062421
+pwd
+#1726062437
+ls -a
+#1726062454
+vim .vimrc
+#1726062489
+~
+#1726062496
+pwd
+#1726062500
+ls -a
+#1726062507
+vim
+#1726062915
+VIM
+#1726062920
+vim
+#1726063015
+cat .vimrc
+#1726062934
+~
+#1726062937
+pwd
+#1726062940
+ls -a
+#1726062943
+vim
+#1726063038
+~
+#1726063045
+ls -a
+#1726063062
+vim .vimrc
+#1726063451
+vi .vimrc
+#1726063503
+cat .vimrc
+#1726063514
+vi .vimrc
+#1726063565
+cp
+#1726063657
+~/Desktok
+#1726063668
+~/Desktop
+#1726063673
+cp
+#1726063770
+cp .vimrc
+#1726063866
+cp .vimrc ~/Desktop/pms4_lab02_guided.txt
+#1727876565
+mkdir csce215
+#1727876576
+cd csce215
+#1727876582
+cd ..
+#1727876693
+mk dir pms4_lab03
+#1727876723
+cd csce215
+#1727876736
+mkdir pms4_lab03
+#1727876747
+cd pms4_lab03
+#1727876771
+touch script.sh pms4_lab03
+#1727876778
+ls
+#1727876787
+rm -r pms4_lab03 
+#1727876788
+ls
+#1727876797
+touch script.sh pms4_lab03.txt
+#1727876800
+ls
+#1727876810
+vi script.sh
+#1727877741
+bash script.sh 
+#1727877764
+vi script.sh
+#1727877781
+bash script.sh 
+#1727877791
+ls
+#1727877799
+cd ..
+#1727877800
+ls
+#1727877809
+cd pms4_lab03/
+#1727877810
+ls
+#1727877818
+bash script.sh 
+#1727877837
+cd ..
+#1727877934
+tar -zcvf pms4_lab03.tar.gz pms4_lab03
+#1727877972
+ld
+#1727877974
+ls
+#1727877985
+rm pms4_lab03.tar.gz 
+#1727877985
+ls
+#1727878001
+cd ..
+#1727878002
+ls
+#1727878006
+cd csce215/
+#1727878007
+ls
+#1727878010
+cd pms4_lab03/
+#1727878011
+ls
+#1727878038
+vi pms4_lab03.txt 
+#1727878061
+cd ..
+#1727878067
+tar -zcvf pms4_lab03.tar.gz pms4_lab03
+#1727878069
+ls
+#1728481235
+cd csce215
+#1728481260
+mkdir pms4_lab03-5
+#1728481321
+cd pms4_lab03-5
+#1728481409
+touch script2.sh
+#1728481435
+touch psm4_lab03-5.txt
+#1728481523
+bash script2.sh
+#1728481586
+vim script2.sh
+#1728482137
+bash script2.sh
+#1728482139
+vim script2.sh
+#1728482151
+vi script2.sh
+#1728482213
+ls
+#1728482221
+rm -r script2.sh 
+#1728482225
+ls
+#1728482233
+vi script2.sh
+#1728482502
+bash script2.sh
+#1728482572
+vi script2.sh
+#1728482623
+bash script2.sh
+#1728482706
+tar -zcvf psm4_lab03-5.tar.gz pms4_lab03-5
+#1728482778
+tar -zcvf pms4_lab03-5.tar.gz pms4_lab03-5
+#1728482862
+tar -zcvf psm4_lab03-5.tar.gz psm4_lab03-5
+#1728482891
+[200~tar -zcvf psm4_lab03-5.tar.gz psm4_lab03-5
+#1728482959
+cd ..
+#1728482963
+tar -zcvf psm4_lab03-5.tar.gz psm4_lab03-5
+#1728482966
+ls
+#1728483005
+cd pms4_lab03
+#1728483006
+ls
+#1728483024
+vi script.sh 
+#1728483042
+cd ..
+#1728483048
+cd pms4_lab03-5/
+#1728483049
+ls
+#1728483087
+rm -rf pms4_lab03-5.tar.gz 
+#1728483088
+ls
+#1728483091
+rm -rf pms4_lab03-5.tar.gz 
+#1728483093
+ls
+#1728483120
+rm -rf psm4_lab03-5.tar.gz 
+#1728483122
+ls
+#1728483125
+cd ..
+#1728483134
+tar -zcvf psm4_lab03-5.tar.gz psm4_lab03-5
+#1728483140
+ls
+#1728483399
+cd pms4_lab03
+#1728483400
+ls
+#1728483408
+vi script.sh 
+#1728483415
+cd ..
+#1728483420
+cd pms4_lab03-5
+#1728483421
+ls
+#1728483426
+vi script2.sh 
+#1728483448
+bash script2.sh 
+#1728483459
+vi script2.sh 
+#1728483506
+cd ..
+#1728483507
+ls
+#1728483544
+tar -zcvf pms4_lab03-5.tar.gz pms4_lab03-5
+#1729692130
+hostname
+#1729692135
+whoami
+#1729692140
+date
+#1730295880
+ls
+#1730295904
+cd ~/Desktop
+#1730295917
+mkdir pms4_lab05
+#1730295924
+cd pms4_lab05
+#1730295982
+touch lab05.sh
+#1730296037
+vim lab05.sh
+#1730296117
+vi lab05.sh
+#1730297279
+bash lab05.sh
+#1730297336
+vi lab05.sh
+#1730297529
+bash lab05.sh
+#1730297566
+vi lab05.sh
+#1730297683
+bash lab05.sh
+#1730297700
+vi lab05.sh
+#1730297861
+bash lab05.sh
+#1730297882
+vi lab05.sh
+#1730297940
+bash lab05.sh
+#1730297954
+vi lab05.sh
+#1730298020
+bash lab05.sh
+#1730298081
+bash ./lab05.sh > pms4_lab05.out
+#1730298164
+tar -zcvf pms4_lab05.tar.gz pms4_lab05
+#1730298235
+ls
+#1730298341
+tar -zcvf lab05.sh.tar.gz pms4_lab05
+#1730298403
+tar -zcvf pms4lab05.sh.tar.gz lab05
+#1730298432
+cd ~Desktop
+#1730298446
+cd ~/Desktop
+#1730298449
+ls
+#1730298487
+tar -zcvf pms4_lab05.sh.tar.gz pms4_lab05

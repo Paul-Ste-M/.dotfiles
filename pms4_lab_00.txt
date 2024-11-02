@@ -1,0 +1,12 @@
+Paul Stevens
+cocsce-l1d43-23
+pms4
+2. shell
+3. a path is the location of a file
+4. a file is a document that contains information 
+5. a directory is group of specific collection of files through different paths
+6. route directory
+7. pwd
+8. home directory
+9. cd
+10. ls

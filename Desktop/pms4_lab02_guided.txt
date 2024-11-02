@@ -1,0 +1,11 @@
+Paul Stevens
+
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord 
+
+
+I created a vim file and used a text editor inside my home directory using commands such as cp, ls -a, and ~. Furthermore, I duplicated the vim file into a text file and saved it onto the desktop. I did this process to learn how to operate shell.

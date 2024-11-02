@@ -1,0 +1,1 @@
+[ERROR crashreporter::net::ping] failed to send legacy ping: failed to launch pingsender process at /usr/lib/firefox/pingsender: No such file or directory (os error 2)

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///acct/pms4/Downloads/Lab%200%20215.pdf" added="2024-09-04T13:45:09.919212Z" modified="2024-09-04T13:45:09.919217Z" visited="2024-09-04T13:45:09.919213Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-09-04T13:45:09.919214Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/Downloads/PaulStevens_lab_0.pdf" added="2024-09-04T13:46:09.990121Z" modified="2024-09-04T13:46:47.531322Z" visited="2024-09-04T13:46:09.990124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-09-04T13:46:10.328628Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2024-09-04T13:46:47.531319Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/Downloads/PaulSttevens_lab_00.txt" added="2024-09-04T13:48:45.729715Z" modified="2024-09-04T14:10:10.877340Z" visited="2024-09-04T13:48:45.729715Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-04T14:10:10.877340Z" count="4"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2024-09-04T13:59:01.413271Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/pms4_lab_00.txt" added="2024-09-04T13:59:25.385507Z" modified="2024-09-04T14:10:28.361625Z" visited="2024-09-04T13:59:25.385507Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-04T14:10:28.361624Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/Downloads/A_2023_CSCE_215_Labs.pdf" added="2024-09-11T13:42:43.688113Z" modified="2024-09-11T13:42:43.688119Z" visited="2024-09-11T13:42:43.688115Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-09-11T13:42:43.688116Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/Desktop/pms4_lab02_guided.txt" added="2024-09-11T14:11:36.275245Z" modified="2024-09-11T14:16:37.490525Z" visited="2024-09-11T14:11:36.275245Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-09-11T14:16:37.490524Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/Downloads/A_2023_CSCE_215_Labs%20(9).pdf" added="2024-10-02T13:44:12.858327Z" modified="2024-10-02T13:44:12.858336Z" visited="2024-10-02T13:44:12.858329Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-02T13:44:12.858332Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/csce215/pms4_lab03-5/psm4_lab03-5.txt" added="2024-10-09T14:02:11.844852Z" modified="2024-10-09T14:14:57.158300Z" visited="2024-10-09T14:02:11.844853Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-09T14:14:57.158298Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/csce215/psm4_lab03-5.tar.gz" added="2024-10-09T14:09:52.340201Z" modified="2024-10-09T14:15:34.617953Z" visited="2024-10-09T14:09:52.340201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-10-09T14:15:34.617952Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/csce215/pms4_lab03-5/pms4_lab03-5.tar.gz" added="2024-10-09T14:11:14.027337Z" modified="2024-10-09T14:11:14.027340Z" visited="2024-10-09T14:11:14.027337Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-10-09T14:11:14.027339Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/csce215/pms4_lab03-5/psm4_lab03-5.tar.gz" added="2024-10-09T14:11:16.916543Z" modified="2024-10-09T14:11:16.916546Z" visited="2024-10-09T14:11:16.916544Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-10-09T14:11:16.916545Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/csce215/pms4_lab03.tar.gz" added="2024-10-09T14:12:39.919407Z" modified="2024-10-09T14:15:37.311384Z" visited="2024-10-09T14:12:39.919407Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-10-09T14:15:37.311382Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/csce215/pms4_lab03/pms4_lab03.txt" added="2024-10-09T14:14:46.748192Z" modified="2024-10-09T14:14:46.748194Z" visited="2024-10-09T14:14:46.748192Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-10-09T14:14:46.748193Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/csce215/pms4_lab03-5.tar.gz" added="2024-10-09T14:19:28.520245Z" modified="2024-10-09T14:19:28.520247Z" visited="2024-10-09T14:19:28.520245Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2024-10-09T14:19:28.520246Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/Pictures/Screenshots/Screenshot%20from%202024-10-23%2010-03-10.png" added="2024-10-23T14:03:10.410129Z" modified="2024-10-23T14:03:10.410132Z" visited="2024-10-23T14:03:10.410130Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-10-23T14:03:10.410131Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
