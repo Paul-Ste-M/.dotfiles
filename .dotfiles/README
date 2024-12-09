@@ -1,0 +1,33 @@
+The Makefile defines two main targets: linux and clean.
+
+linux:
+Runs the linux.sh script after ensuring the environment is cleaned up by running the cleanup.sh script. This setup ensures that the environment is properly configured each time the script is executed.
+clean:
+Runs the cleanup.sh script to reverse the changes made by linux.sh (e.g., removes temporary files, restores previous configurations).
+
+2. ./bin/linux.sh
+Checks if the system is Linux: The script first checks if the operating system is Linux by running the uname command. If it's not Linux, an error message is logged, and the script exits.
+Creates .TRASH directory: It checks if a .TRASH directory exists in your home directory and creates it if it doesn’t. Renames existing .nanorc: If the .nanorc file already exists in your home directory, it renames it to .bup_nanorc and logs this change. Copies etc/nanorc to home directory: It copies the contents of ./etc/nanorc to your home directory as .nanorc. Appends source ~/.dotfiles/etc/bashrc custom to .bashrc: It ensures the bashrc custom configuration is sourced by appending the necessary line to your .bashrc file.
+
+3. ./bin/cleanup.sh
+This script undoes the changes made by linux.sh.
+Removes .nanorc: Deletes the .nanorc file from the home directory if it exists.
+Removes the line in .bashrc: Uses the sed command to remove the line that was added 				 to .bashrc to source the bashrc custom.
+Removes .TRASH directory: Deletes the .TRASH directory from your home directory if it exists.
+
+4. ./etc/bashrc custom
+cdd: Changes to the parent directory (cd ..).
+lsa: Lists all files, including hidden files, except . and ...
+lsl: Lists files with detailed information (ls -l).
+lsal: Lists all files with detailed information (ls -Al).
+targz: Creates a tarball of a directory using the targzfunc.
+untar: Extracts the contents of a .tar.gz file using the untarfunc.
+cselab: SSH command to connect to a remote server on port 222 (edit the ??? in the alias with the correct IP address).
+trash: Moves files to a trash directory instead of permanently deleting them using rm.
+rmtrash: Removes all files from the .TRASH directory
+
+5. ./etc/nanorc
+It contains syntax highlighting rules that help in making code more readable while editing with nano.
+
+6. ./.gitignore
+This file tells Git which files to ignore.

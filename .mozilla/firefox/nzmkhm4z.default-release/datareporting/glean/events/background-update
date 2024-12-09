@@ -3,3 +3,4 @@
 {"timestamp":22741642,"category":"nimbus_events","name":"unenrollment","extra":{"reason":"recipe-not-seen","branch":"treatment","glean_timestamp":"1733765061545","experiment":"highlighting-in-pdfs-rollout"}}
 {"timestamp":22741643,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","reason":"invalid-feature","glean_timestamp":"1733765061545","feature":"addAnImageInPDF"}}
 {"timestamp":22741643,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"tab-hover-preview-release-rollout","feature":"tabPreview","glean_timestamp":"1733765061545","reason":"invalid-feature"}}
+{"timestamp":25607280,"category":"nimbus_events","name":"exposure","extra":{"branch":"treatment-b","glean_timestamp":"1733767927182","feature_id":"fxms-message-3","experiment":"fx-view-discoverability-rollout"}}

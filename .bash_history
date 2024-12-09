@@ -1053,3 +1053,137 @@ tar -zcvf pms4_lab07.tar.gz pms4_lab07
 git clone git@github.com:Paul-Paul-Ste-M/.dotfiles.git
 #1733765288
 git diff
+#1733765395
+git add -all
+#1733765406
+git add --all
+#1733765433
+git commit -m "Backup"
+#1733765448
+git push origin main
+#1733765467
+git checkout -b bash-nano-customization
+#1733765489
+tree
+#1733765541
+./.gitignore
+#1733765560
+.gitignore
+#1733765642
+touch .gitignore
+#1733765664
+.gitignore
+#1733765700
+.gitignore bash
+#1733765774
+bash touch .gitignore
+#1733765808
+nano .gitignore
+#1733766195
+touch ./etc/bashrc_custom
+#1733766212
+mkdir -p ./etc
+#1733766227
+touch ./etc/bashrc_custom
+#1733766237
+nano ./etc/bashrc_custom
+#1733766316
+nano ./bin/linux.sh
+#1733766906
+touch ./bin/linux.sh
+#1733766912
+ls
+#1733766945
+mdkir -p ./bin
+#1733767034
+mkdir ./bin
+#1733767051
+nano ./bin/linux.sh
+#1733767099
+nano .bin/cleanup.sh
+#1733767118
+nano ./bin/cleanup.sh
+#1733767226
+touch Makefile
+#1733767233
+nano Makefile
+#1733767351
+ls
+#1733767384
+touch ./READ.md
+#1733767414
+rm ./READ.md
+#1733767421
+touch README.md
+#1733767426
+vim README.md
+#1733768007
+nano .nanorc
+#1733768025
+nano .bashrc_customs
+#1733768054
+nano ./etc/bashrc_custom
+#1733768187
+vi .dotfiles/README
+#1733768269
+source ~/.bash.rc
+#1733768317
+source ~/.bashrc
+#1733768332
+make
+#1733768393
+chmod +x ./bin/linux.sh
+#1733768393
+chmod +x ./bin/cleanup.sh
+#1733768398
+make
+#1733768423
+nano ./bin/cleanup.sh
+#1733768440
+make
+#1733768482
+ls -l ./bin/linux.sh
+#1733768510
+ls -l ./bin./cleanup.sh
+#1733768551
+ls -l ./bin/cleanup.sh
+#1733768574
+nano nanorc
+#1733768595
+nano .nanorc
+#1733768611
+ls
+#1733768643
+nano .bashrc
+#1733768667
+tree
+#1733768706
+cd .dotfiles
+#1733768733
+git add --all
+#1733768774
+git commit -m "Created linux shell setup signals scripts."
+#1733768791
+git push origin bash-nano-customization
+#1733768875
+cd ..
+#1733768939
+git branch
+#1733768955
+git status
+#1733768969
+git add
+#1733768977
+git add .
+#1733769021
+cd .dotfiles
+#1733769036
+git push origin bash-nano-customization
+#1733769074
+error: src refspec bash-nano-customization does not match any
+#1733769074
+error: failed to push some refs to 'github.com:Paul-Ste-M/.dotfiles
+
+git push origin bash-nano-customization
+:
+ls

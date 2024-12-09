@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1730588689,,"wq"
+|2,0,1733768231,,"wq"
 :q
 |2,0,1728483478,,"q"
 :q!
@@ -40,34 +40,46 @@
 |3,1,36,0,1,0,1730588683,"m"
 
 # File marks:
-'0  1  0  ~/.ssh/config
-|4,48,1,0,1730588689,"~/.ssh/config"
-'1  1  0  ~/.dotfiles/README.md
-|4,49,1,0,1730588422,"~/.dotfiles/README.md"
-'2  1  0  ~/.ssh/config
-|4,50,1,0,1730588220,"~/.ssh/config"
-'3  4  36  ~/config
-|4,51,4,36,1730587750,"~/config"
-'4  10  0  ~/.ssh/config
-|4,52,10,0,1730584032,"~/.ssh/config"
+'0  1  41  ~/.dotfiles/README
+|4,48,1,41,1733768231,"~/.dotfiles/README"
+'1  1  0  ~/.ssh/config
+|4,49,1,0,1730588689,"~/.ssh/config"
+'2  1  0  ~/.dotfiles/README.md
+|4,50,1,0,1730588422,"~/.dotfiles/README.md"
+'3  1  0  ~/.ssh/config
+|4,51,1,0,1730588220,"~/.ssh/config"
+'4  4  36  ~/config
+|4,52,4,36,1730587750,"~/config"
 '5  10  0  ~/.ssh/config
 |4,53,10,0,1730584032,"~/.ssh/config"
-'6  7  0  ~/.ssh/config
-|4,54,7,0,1730584032,"~/.ssh/config"
+'6  10  0  ~/.ssh/config
+|4,54,10,0,1730584032,"~/.ssh/config"
 '7  7  0  ~/.ssh/config
 |4,55,7,0,1730584032,"~/.ssh/config"
-'8  16  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,56,16,0,1730298014,"~/Desktop/pms4_lab05/lab05.sh"
-'9  17  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,57,17,0,1730297926,"~/Desktop/pms4_lab05/lab05.sh"
+'8  7  0  ~/.ssh/config
+|4,56,7,0,1730584032,"~/.ssh/config"
+'9  16  0  ~/Desktop/pms4_lab05/lab05.sh
+|4,57,16,0,1730298014,"~/Desktop/pms4_lab05/lab05.sh"
 
 # Jumplist (newest first):
+-'  1  41  ~/.dotfiles/README
+|4,39,1,41,1733768231,"~/.dotfiles/README"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1730588689,"~/.ssh/config"
 -'  1  0  ~/.ssh/config
 |4,39,1,0,1730588689,"~/.ssh/config"
 -'  1  0  ~/.dotfiles/README.md
 |4,39,1,0,1730588422,"~/.dotfiles/README.md"
 -'  1  0  ~/.dotfiles/README.md
 |4,39,1,0,1730588422,"~/.dotfiles/README.md"
+-'  1  0  ~/.dotfiles/README.md
+|4,39,1,0,1730588422,"~/.dotfiles/README.md"
+-'  1  0  ~/.dotfiles/README.md
+|4,39,1,0,1730588422,"~/.dotfiles/README.md"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1730588220,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1730588220,"~/.ssh/config"
 -'  1  0  ~/.ssh/config
 |4,39,1,0,1730588220,"~/.ssh/config"
 -'  1  0  ~/.ssh/config
@@ -88,6 +100,38 @@
 |4,39,4,36,1730587750,"~/config"
 -'  4  36  ~/config
 |4,39,4,36,1730587750,"~/config"
+-'  4  36  ~/config
+|4,39,4,36,1730587750,"~/config"
+-'  4  36  ~/config
+|4,39,4,36,1730587750,"~/config"
+-'  4  36  ~/config
+|4,39,4,36,1730587750,"~/config"
+-'  4  36  ~/config
+|4,39,4,36,1730587750,"~/config"
+-'  4  36  ~/config
+|4,39,4,36,1730587750,"~/config"
+-'  4  36  ~/config
+|4,39,4,36,1730587750,"~/config"
+-'  4  36  ~/config
+|4,39,4,36,1730587750,"~/config"
+-'  4  36  ~/config
+|4,39,4,36,1730587750,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1730587741,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1730587741,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1730587741,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1730587741,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1730587741,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1730587741,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1730587741,"~/config"
+-'  1  0  ~/config
+|4,39,1,0,1730587741,"~/config"
 -'  1  0  ~/config
 |4,39,1,0,1730587741,"~/config"
 -'  1  0  ~/config
@@ -118,6 +162,28 @@
 |4,39,7,0,1730584032,"~/.ssh/config"
 -'  7  0  ~/.ssh/config
 |4,39,7,0,1730584032,"~/.ssh/config"
+-'  10  0  ~/.ssh/config
+|4,39,10,0,1730584032,"~/.ssh/config"
+-'  7  0  ~/.ssh/config
+|4,39,7,0,1730584032,"~/.ssh/config"
+-'  7  0  ~/.ssh/config
+|4,39,7,0,1730584032,"~/.ssh/config"
+-'  7  0  ~/.ssh/config
+|4,39,7,0,1730584032,"~/.ssh/config"
+-'  7  0  ~/.ssh/config
+|4,39,7,0,1730584032,"~/.ssh/config"
+-'  7  0  ~/.ssh/config
+|4,39,7,0,1730584032,"~/.ssh/config"
+-'  7  0  ~/.ssh/config
+|4,39,7,0,1730584032,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1730583990,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1730583990,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1730583990,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1730583990,"~/.ssh/config"
 -'  1  0  ~/.ssh/config
 |4,39,1,0,1730583990,"~/.ssh/config"
 -'  1  0  ~/.ssh/config
@@ -190,80 +256,21 @@
 |4,39,16,0,1730298014,"~/Desktop/pms4_lab05/lab05.sh"
 -'  16  0  ~/Desktop/pms4_lab05/lab05.sh
 |4,39,16,0,1730298014,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  1  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,1,0,1730297954,"~/Desktop/pms4_lab05/lab05.sh"
--'  17  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,17,0,1730297926,"~/Desktop/pms4_lab05/lab05.sh"
--'  17  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,17,0,1730297926,"~/Desktop/pms4_lab05/lab05.sh"
--'  17  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,17,0,1730297926,"~/Desktop/pms4_lab05/lab05.sh"
--'  17  0  ~/Desktop/pms4_lab05/lab05.sh
-|4,39,17,0,1730297926,"~/Desktop/pms4_lab05/lab05.sh"
+-'  16  0  ~/Desktop/pms4_lab05/lab05.sh
+|4,39,16,0,1730298014,"~/Desktop/pms4_lab05/lab05.sh"
+-'  16  0  ~/Desktop/pms4_lab05/lab05.sh
+|4,39,16,0,1730298014,"~/Desktop/pms4_lab05/lab05.sh"
+-'  16  0  ~/Desktop/pms4_lab05/lab05.sh
+|4,39,16,0,1730298014,"~/Desktop/pms4_lab05/lab05.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/.dotfiles/README
+	*	1733768202	0
+	"	1	41
+	^	33	42
+	.	33	41
+	+	33	41
 
 > ~/.ssh/config
 	*	1730588684	0
