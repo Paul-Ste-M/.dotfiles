@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/acct/pms4/.cache/ibus/dbus-2ypok2EI,guid=05cc8825718c8d6d70ffba42672237e9
-IBUS_DAEMON_PID=553098
+IBUS_ADDRESS=unix:abstract=/acct/pms4/.cache/ibus/dbus-6YF6A6be,guid=d047741a8f440841651a93dd6757279f
+IBUS_DAEMON_PID=69074

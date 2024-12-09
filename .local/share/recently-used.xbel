@@ -170,4 +170,44 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///acct/pms4/Desktop/pms4_lab05/lab05.sh" added="2024-11-15T15:46:39.900339Z" modified="2024-11-15T15:52:50.862316Z" visited="2024-11-15T15:46:39.900340Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-11-15T15:46:39.900342Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-11-15T15:52:50.862311Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/pms4_lab05/lab05.sh" added="2024-11-15T15:54:49.950010Z" modified="2024-11-15T15:54:49.950013Z" visited="2024-11-15T15:54:49.950010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-11-15T15:54:49.950011Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/pms4/lab05.txt" added="2024-11-15T15:55:52.409442Z" modified="2024-11-15T15:55:52.713987Z" visited="2024-11-15T15:55:52.409444Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-11-15T15:55:52.713985Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

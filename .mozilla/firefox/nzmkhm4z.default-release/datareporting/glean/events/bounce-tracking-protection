@@ -1,0 +1,2 @@
+{"timestamp":37017080,"category":"bounce.tracking.protection","name":"purge_action","extra":{"is_dry_run":"true","success":"true","glean_timestamp":"1733174536981","bounce_time":"1725457443","site_host":"anthology.com"}}
+{"timestamp":22712385,"category":"glean","name":"restarted","extra":{"glean_timestamp":"1733765032288","glean.startup.date":"2024-12-09T12:23-05:00"},"execution_counter":1}
